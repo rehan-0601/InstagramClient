@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 * [1] User can **pull-to-refresh** popular stream to get the latest popular photos
 * [2] Show latest comments for each photo
 * [3] Display each photo with the same style and proportions as the real Instagram
-* [4] Display a nice default placeholder graphic for each image during loading
+* [4] Display a nice default placeholder graphic for each image during loading (Using the instagram icon png)
 * [5] Improved the user interface through styling and coloring
 
 The following **bonus** features are implemented:
@@ -30,6 +30,8 @@ The following **additional** features are implemented:
 
 * [1] Location of instagram photo is mentioned below the username 
   [2] Added custom launcher icon for my app
+  [3] Implemented the View Holder pattern for better efficiency
+
 
 ## Video Walkthrough 
 
